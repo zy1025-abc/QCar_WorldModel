@@ -1,0 +1,6 @@
+data_raw/
+.venv/
+.idea/
+__pycache__/
+*.pyc
+
